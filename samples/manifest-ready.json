@@ -1,0 +1,22 @@
+{
+    "publishBatch": "Sample Batch A (fictional data)",
+    "items": [
+        {"itemid": "staying-hydrated",
+        "language": "en",
+        "riskTier": 1,
+        "Version": "v1",
+        "status": "approved",
+        "draftedBy": "Sample Writer",
+        "reviews": [
+            {
+                "reviewerName": "Dr Sample One",
+                "registrationNumber": "MDCN-SAMPLE-001",
+                "decision": "approved",
+                "approvedVersion": "v1",
+                "date": "2026-10-20"
+            }
+        ],
+        "reviewDueDate": "2029-10-20"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "deborah-publish-gate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teslimtobi/deborah-publish-gate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/teslimtobi/deborah-publish-gate/issues"
+  },
+  "homepage": "https://github.com/teslimtobi/deborah-publish-gate#readme"
+}

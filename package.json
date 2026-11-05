@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "check": "node src/check.js samples/manifest-ready.json"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/teslimtobi/deborah-publish-gate.git"
